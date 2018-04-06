@@ -1,0 +1,30 @@
+{
+  "name": "cars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masag0/Cars-Neural-Network.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masag0/Cars-Neural-Network/issues"
+  },
+  "homepage": "https://github.com/masag0/Cars-Neural-Network#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "p5": "^0.6.0",
+    "webpack": "^4.5.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.14"
+  }
+}
